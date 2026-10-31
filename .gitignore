@@ -1,0 +1,14 @@
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.venv/
+
+# Fichiers de configuration des éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
